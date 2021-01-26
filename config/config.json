@@ -1,0 +1,10 @@
+
+{
+    "MySQL" : {
+        "username": "IDxnXGg3z5",
+        "password": "O84Ej4FuAd",
+        "database": "IDxnXGg3z5",
+        "host": "remotemysql.com",
+        "dialect" : "mysql"
+    }
+}
